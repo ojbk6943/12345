@@ -1,9 +1,20 @@
-import json
-import pymysql
+import json,pymysql,requests
+
 from selenium.webdriver.support.select import Select
 
 
 class Utility:
+
+    #登录
+    @classmethod
+    def login(cls):
+        session = requests.session()
+        data_cookie = cls.get_excell_data("../../testdata/test_data.xlsx", "login", "LOGIN", 2, 3, 4)
+        resp=session.post(data_cookie[0][0]["url"], data_cookie[0][0]["data"])
+
+        return session
+
+
 
     # 连接数据库
     @classmethod
@@ -96,7 +107,7 @@ class Utility:
                             # 排除空行
                             if clos_data:
                                 # 切割，用"="
-                                data_split = clos_data.split("=")
+                                data_split = clos_data.split("=",1)
                                 # = 左边为键，右边为值
                                 step_dict[data_split[0].strip()] = data_split[1].strip()
 

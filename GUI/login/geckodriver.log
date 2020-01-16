@@ -1,0 +1,272 @@
+1578572691114	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofileN09kQZ"
+1578572692273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578572692273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578572692274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578572692274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578572695564	Marionette	INFO	Listening on port 15210
+1578572696054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Child 11060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11060, Chrome_[Child 4928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4928, Chrome_Chi1578573737213	Marionette	INFO	Stopped listening on port 15210
+ resource://pdf.js/
+1578572766861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578572769496	Marionette	INFO	Listening on port 15269
+1578572769758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12168, Ch[Child 12116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1578573716542	Marionette	INFO	Stopped listening on port 15269
+ telemetry
+1578573107549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578573107549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578573110139	Marionette	INFO	Listening on port 15376
+1578573110287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11648, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common[Child 13212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1578573699370	Marionette	INFO	Stopped listening on port 15376
+xtension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578573230046	Marionette	INFO	Listening on port 15429
+1578573230075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/b[Parent 5516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/c[Parent 5516, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1578573697512	Marionette	INFO	Stopped listening on port 15429
+s deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/c[Parent 12328, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1578573744846	Marionette	INFO	Stopped listening on port 15523
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9484, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1578627705374	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofilel0zTpW"
+1578627706571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578627706572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578627706572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578627706572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578627711727	Marionette	INFO	Listening on port 3417
+1578627711910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1516, Chr1578628380429	Marionette	INFO	Stopped listening on port 3417
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chro8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1578627944664	Marionette	INFO	Stopped listening on port 3507
+[Parent 8592, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1[Parent 8592, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1578628012468	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofilenqld3r"
+1578628013437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578628013437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578628013437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578628013437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578628015919	Marionette	INFO	Listening on port 3567
+1578628016309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1578628023306	Marionette	INFO	Stopped listening on port 3567
+[Child 9744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9744, Chrome_ChildThread] WARNINGIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9144, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9352, Chrome_ChildThread] WARNI1578628036657	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile6wO9kL"
+1578628037590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578628037590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578628037590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578628037590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578628039982	Marionette	INFO	Listening on port 3616
+1578628040463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1578628048951	Marionette	INFO	Stopped listening on port 3616
+[Parent 7264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ip[Parent 7264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1160, Chrome_ChildTh
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6236, Chrome1578628133978	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofilefFVyPt"
+1578628134842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578628134842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578628134842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578628134842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578628137143	Marionette	INFO	Listening on port 3665
+1578628137186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6668, C[Child 6912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/i[Parent 9736, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8180, Chrome_ChildThread] WARNING: pipe error1578628371412	Marionette	INFO	Stopped listening on port 3665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/i
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10124, Chr1578628369382	Marionette	INFO	Stopped listening on port 3713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8724, Chromerg': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578628280346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578628283925	Marionette	INFO	Listening on port 3771
+1578628284191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10256, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_[Parent 10256, Gecko_IOT1572401533/build/src/ipc/chromihum/src/chrome/common/ipc_chanrnel_win.cc, line 341e
+ad] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Parent 10256, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1578628368198	Marionette	INFO	Stopped listening on port 3771
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PU 10408, C	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Modules/Order/js/subModal.js, line 293: unreachable code after return statement
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 2378: ReferenceError: InitMap is not defined
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript error: http://117.34.110.92:8991/ScriptResource.axd?d=e_UcM_1tYcZRkU7MumWv-Qiqkt7jgZ1Refh3SN1kIRDHf2MNb_zLTLODiU2MNVOkAwV0QFqpodynbV1uDl2kyxM76H1eAtJAQ1LxDbzquSNdlJGHFCvFNPK0MigfcQKeGm8xnddTEdB-ZNCILwZolFFKPuyHMFCXna19BAfXbmGI3oQwTlOka8dCe-PPCB8D0&t=ffffffff824935cd:522, line 26: Error: Sys.ArgumentUndefinedException: 值不能是未定义的。
+参数名: handler
+1578628357721	Marionette	INFO	Stopped listening on port 3823
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509 line 1 > eval, line 1: unreachable code after return statement
+[Parent 9944, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11624, Chrome_ChildThread] WARNING: pipe error: 109: f[Parent 9944, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas[Parent 9944, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[GPU 10604, Chrome_ChildThread] WARNING: pip1578628985615	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EDZ\\AppData\\Local\\Temp\\rust_mozprofile0YjpC0"
+1578628986162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578628986162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578628986163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578628986163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1578628988531	Marionette	INFO	Listening on port 4028
+1578628988825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://117.34.110.92:8991/Content/skins/AILogin/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Content/Scripts/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/NewCSS/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://117.34.110.92:8991/Modules/Order/js/subModal.js, line 293: unreachable code after return statement
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 2378: ReferenceError: InitMap is not defined
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript error: http://117.34.110.92:8991/ScriptResource.axd?d=e_UcM_1tYcZRkU7MumWv-Qiqkt7jgZ1Refh3SN1kIRDHf2MNb_zLTLODiU2MNVOkAwV0QFqpodynbV1uDl2kyxM76H1eAtJAQ1LxDbzquSNdlJGHFCvFNPK0MigfcQKeGm8xnddTEdB-ZNCILwZolFFKPuyHMFCXna19BAfXbmGI3oQwTlOka8dCe-PPCB8D0&t=ffffffff824935cd:522, line 26: Error: Sys.ArgumentUndefinedException: 值不能是未定义的。
+参数名: handler
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 455: ReferenceError: ReSetingPage is not defined
+JavaScript error: http://117.34.110.92:8991/ScriptResource.axd?d=e_UcM_1tYcZRkU7MumWv-Qiqkt7jgZ1Refh3SN1kIRDHf2MNb_zLTLODiU2MNVOkAwV0QFqpodynbV1uDl2kyxM76H1eAtJAQ1LxDbzquSNdlJGHFCvFNPK0MigfcQKeGm8xnddTEdB-ZNCILwZolFFKPuyHMFCXna19BAfXbmGI3oQwTlOka8dCe-PPCB8D0&t=ffffffff824935cd, line 314: TypeError: session is null
+JavaScript warning: http://117.34.110.92:8991/Modules/Order/js/subModal.js, line 293: unreachable code after return statement
+JavaScript error: http://117.34.110.92:8991/Modules/Order/OrderALLEdit.aspx?vvcf=1, line 2378: ReferenceError: InitMap is not defined
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+JavaScript warning: http://api.map.baidu.com/getscript?v=1.4&ak=&services=false&t=20200103060509, line 1: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 7672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7672, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 7672, Gecko_IOThread] WARNING: file z:/task_1572401533/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1578638015604	Marionette	INFO	Stopped listening on port 4028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
